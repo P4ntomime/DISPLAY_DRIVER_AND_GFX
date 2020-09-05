@@ -143,8 +143,6 @@ int main(void)
 
 //  gfx_std_draw_circle_filled(63, 63, 10, colors.red, 1);
 
-
-
   /* USER CODE END 2 */
 
   /* Infinite loop */
